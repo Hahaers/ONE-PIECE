@@ -1,9 +1,9 @@
 # ONE-PIECE-
 OPTC资料集
 
-| 攻击           | Are          | Cool  |
+| 攻击           |回复          | hit  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
+| 1800      | 655 |10|
+| 1730      | 630      |   8 |
+| 1700 | 621      |    7|
+|1677|600|5|
